@@ -10,6 +10,7 @@ public class TestHit {
 	public void test() {
 		fail("Not yet implemented");
 	}
+	@Test
 	public void testProcess1() {
 		Hitung hitung = new Hitung();
 		int ketemu = hitung.hitungTambah(1, 2);
